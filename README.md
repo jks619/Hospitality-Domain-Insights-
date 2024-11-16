@@ -23,11 +23,11 @@ The **Hospitality Insights** project is designed to:
 - **NumPy**: For numerical computations.
 
 ## Datasets
-dim_date
-dim_hotels
-dim_rooms
-fact_bookings
-fact_aggregated_bookings
-new_data_august
+- **dim_date**  
+- **dim_hotels**  
+- **dim_rooms**  
+- **fact_bookings**  
+- **fact_aggregated_bookings**  
+- **new_data_august**  
 
 

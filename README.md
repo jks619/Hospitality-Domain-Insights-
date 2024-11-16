@@ -21,13 +21,13 @@ The **Hospitality Insights** project is designed to:
 - **Pandas**: For data manipulation and cleaning.
 - **Matplotlib/Seaborn**: For data visualization.
 - **NumPy**: For numerical computations.
--
+
 ## Datasets
-1)dim_date
-2)dim_hotels
-3)dim_rooms
-4)fact_bookings
-5)fact_aggregated_bookings
+-1)dim_date
+-2)dim_hotels
+-3)dim_rooms
+-4)fact_bookings
+-5)fact_aggregated_bookings
 6)new_data_august
 
 

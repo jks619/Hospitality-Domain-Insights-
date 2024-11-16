@@ -1,7 +1,7 @@
 
 # Hospitality Insights
 
-This repository contains a Jupyter Notebook project, **Hospitality Insights**, aimed at analyzing and deriving insights from hospitality-related data. The project uses data-driven approaches to understand trends, customer behaviors, and operational metrics within the hospitality sector.
+This is a Jupyter Notebook project, **Hospitality Insights**, aimed at analyzing and deriving insights from hospitality-related data of Atliq Grands,which is a hotel chain in india that operates across multiple cities. The project uses data-driven approaches to understand trends, customer behaviors, and operational metrics within the hospitality sector.
 
 ## Project Overview
 
